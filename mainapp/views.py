@@ -77,7 +77,6 @@ def contact(request):
     return render(request, "mainapp/contact.html", content)
 
 
-
 def product(request, pk):
     title = "продукты"
     content = {
