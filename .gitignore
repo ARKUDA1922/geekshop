@@ -248,3 +248,8 @@ fabric.properties
 # Built Visual Studio Code Extensions
 *.vsix
 
+# geekshop --->
+
+tmp
+
+# <--- geekshop
