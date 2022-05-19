@@ -170,6 +170,7 @@ def contact(request):
 
 from django.views.decorators.cache import cache_page
 
+
 @cache_page(600)
 def contact(request):
     title = "о нас"
