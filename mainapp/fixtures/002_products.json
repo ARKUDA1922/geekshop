@@ -9,7 +9,8 @@
             "short_desc": "комфортный стул",
             "description": "подойдет для просмотра фильмов",
             "price": "2989.50",
-            "quantity": 17
+            "quantity": 15,
+            "is_active": true
         }
     },
     {
@@ -21,8 +22,9 @@
             "image": "products_images/product-2.jpg",
             "short_desc": "очень комфортный стул",
             "description": "подойдет для общения с друзьями",
-            "price": "3687.2",
-            "quantity": 21
+            "price": "3687.20",
+            "quantity": 21,
+            "is_active": true
         }
     },
     {
@@ -35,7 +37,8 @@
             "short_desc": "использованы премиальные материалы",
             "description": "для тех, кто стремится к лучшему",
             "price": "8157.99",
-            "quantity": 7
+            "quantity": 7,
+            "is_active": true
         }
     },
     {
@@ -48,7 +51,8 @@
             "short_desc": "универсальное решение",
             "description": "подойдет для любого офиса",
             "price": "1895.25",
-            "quantity": 27
+            "quantity": 27,
+            "is_active": true
         }
     },
     {
@@ -61,7 +65,8 @@
             "short_desc": "улучшенный дизайн",
             "description": "идеально впишется в строгий интерьер офиса",
             "price": "3587.41",
-            "quantity": 9
+            "quantity": 9,
+            "is_active": true
         }
     },
     {
@@ -74,7 +79,8 @@
             "short_desc": "инновационный дизайн",
             "description": "нестандартное решение для современного интерьера",
             "price": "5361.47",
-            "quantity": 18
+            "quantity": 18,
+            "is_active": true
         }
     },
     {
@@ -87,7 +93,8 @@
             "short_desc": "прогрессивный дизайн",
             "description": "функциональное и комфортное решение",
             "price": "6789.33",
-            "quantity": 12
+            "quantity": 11,
+            "is_active": true
         }
     },
     {
@@ -100,7 +107,8 @@
             "short_desc": "классические формы",
             "description": "окунитесь в европейский комфорт",
             "price": "4147.51",
-            "quantity": 25
+            "quantity": 25,
+            "is_active": true
         }
     },
     {
@@ -113,7 +121,8 @@
             "short_desc": "эргономичная спинка",
             "description": "почувствуйте комфорт и насладитесь цветовой гаммой",
             "price": "7147.35",
-            "quantity": 18
+            "quantity": 18,
+            "is_active": true
         }
     },
     {
@@ -126,7 +135,8 @@
             "short_desc": "удачные пропорции",
             "description": "компактность и функциональность",
             "price": "8357.77",
-            "quantity": 8
+            "quantity": 8,
+            "is_active": true
         }
     }
 ]
